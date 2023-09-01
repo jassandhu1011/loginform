@@ -1,2 +1,2 @@
 # loginform
-A basic function login form
+A basic functional login form
